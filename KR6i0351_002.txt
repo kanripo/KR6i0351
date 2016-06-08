@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:17:01.248263
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:36
 #+TITLE: 楞伽經心印
 #+PROPERTY: CBETA_ID X18n0334
 #+PROPERTY: ID KR6i0351
@@ -1283,7 +1283,7 @@
 楞伽阿䟦多羅寶經心印卷二¶
 ¶
 
-音釋¶
+** 音釋¶
 
 跛
 
